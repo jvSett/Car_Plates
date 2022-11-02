@@ -6,6 +6,8 @@
 # Реализация
 1. [Датасет](https://www.kaggle.com/datasets/kirillpribludenko/number-plates-50-russain-50-others) содержит три класса: легковая машина, номер, грузовая машина.
 2.  Были выбраны 2 модели для обучения: [Yolov5](https://github.com/jvSett/Car_Plates/blob/main/YoloV5_V_1.ipynb) и Yolov7
+    Модели были взять с официальных репозиториев [Yolov5](https://github.com/ultralytics/yolov5) и [Yolov7](https://github.com/WongKinYiu/yolov7)
+
 3. Автоматическое распознавание текста реализовано с помощью библиотеки easyocr 
 4. Сравнение моделей
 
