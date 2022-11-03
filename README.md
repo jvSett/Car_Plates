@@ -34,3 +34,8 @@
 
 **Метрики качества валидационного набора для Yolov5:**
 ![](https://github.com/jvSett/Car_Plates/blob/main/images/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8_Yolov5.jpg)
+
+**Метрики качества валидационного набора для Yolov7:**
+![](https://github.com/jvSett/Car_Plates/blob/main/images/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8_Yolov7.jpg)
+
+Как видно из табличных данных по столбцу **mAP@.5:.95** Yolo7 лучше распознает автомобили и их классы. Но Yolo5 лучше детектирует номер автомобиля
