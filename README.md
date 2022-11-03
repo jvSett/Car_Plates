@@ -5,7 +5,7 @@
 
 # Реализация
 1. [Датасет](https://www.kaggle.com/datasets/kirillpribludenko/number-plates-50-russain-50-others) взят с kaggle и содержит три класса: легковая машина, номер, грузовая машина.
-2.  Были выбраны 2 модели для обучения: [Yolov5](https://github.com/jvSett/Car_Plates/blob/main/YoloV5_V_1.ipynb) и Yolov7.
+2.  Были выбраны 2 модели для обучения: [Yolov5](https://github.com/jvSett/Car_Plates/blob/main/YoloV5_V_1.ipynb) и [Yolov7](https://github.com/jvSett/Car_Plates/blob/main/YoloV7_V_1.ipynb).
 
 При обучении Yolov5 сначала было принято решение обучать на 50 эпохах, но результат, мягко сказать, получился не очень:
 ![](https://github.com/jvSett/Car_Plates/blob/main/images/50_epoch.jpg)
