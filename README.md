@@ -14,6 +14,9 @@
 Результат после обучения Yolov5 на 200 эпохах:
 ![](https://github.com/jvSett/Car_Plates/blob/main/images/200_epoch.jpg)
 
+Результат после обучения Yolov7 на 200 эпохах:
+![](https://github.com/jvSett/Car_Plates/blob/main/images/200_yolov7.jpg)
+
 Предоставляем графики обучения Yolov5 с помощью борда [wandb](wandb.ai):
 
 ![](https://github.com/jvSett/Car_Plates/blob/main/images/model_graphs.jpg)
