@@ -46,7 +46,7 @@
 ![](https://github.com/jvSett/Car_Plates/blob/main/images/YoloV5_total.jpg)
 
 **Метрики общей скорости для Yolov7:**
-![](https://github.com/jvSett/Car_Plates/blob/main/images/Yolov7_total_speed.jpg)
+![](https://github.com/jvSett/Car_Plates/blob/main/images/Yolov7_total_S.jpg)
 
 Как видно, распознавание номера сильно тормозит общее решение. Есть смысл задуматься об оптимизации данного момента.
 На основании полученных результатов была выбрана модель **Yolov5m**, так как ее скорость детекции намного быстрее, при худшем качестве обнаружения.
